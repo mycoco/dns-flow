@@ -18,12 +18,8 @@
       },
       "assets": {
         "windows": {
-          "url": "https://github.com/mycoco/dns-flow/releases/download/v2.0.0.1/dns-flow-win-2.0.0.1.zip",
-          "sha256": ""
-        },
-        "macos": {
-          "url": "https://github.com/mycoco/dns-flow/releases/download/v2.0.0.1/dns-flow-macos-2.0.0.1.zip",
-          "sha256": ""
+          "url": "https://github.com/mycoco/dns-flow/releases/download/2.0.0.1/dns-flow-win-2.0.0.1.zip",
+          "sha256": "6087603e618746a79bc68677deabd28b6ea0d7358d55103e6135833d68e24489"
         }
       }
     }
