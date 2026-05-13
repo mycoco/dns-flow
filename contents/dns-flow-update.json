@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "product": "dns-flow",
+  "versions": {
+    "2.0.0.0": {
+      "upgradeEnabled": true,
+      "targetVersion": "2.0.0.1"
+    },
+    "2.0.0.1": {
+      "upgradeEnabled": false
+    }
+  },
+  "releases": {
+    "2.0.0.1": {
+      "message": {
+        "zh-CN": "项目重构，修复了若干 bug，并且增加了升级功能",
+        "en-US": "Project refactoring, several bug fixes, and upgrade functionality added"
+      },
+      "assets": {
+        "windows": {
+          "url": "https://github.com/mycoco/dns-flow/releases/download/v2.0.0.1/dns-flow-win-2.0.0.1.zip",
+          "sha256": ""
+        },
+        "macos": {
+          "url": "https://github.com/mycoco/dns-flow/releases/download/v2.0.0.1/dns-flow-macos-2.0.0.1.zip",
+          "sha256": ""
+        }
+      }
+    }
+  }
+}
