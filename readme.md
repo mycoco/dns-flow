@@ -6,6 +6,10 @@ dns-flow is a website routing tool built around a single browser entry point.
 
 Its goal is simple: configure one local entry in your browser, then let dns-flow decide whether each website should go direct, through a proxy, through a specified DNS / DoH resolver, or be blocked, based on website rules and resolved IP results.
 
+## Screenshot
+
+![dns-flow website routing screen](images/dns-flow-en-us.png)
+
 ## Features
 
 - Website routing: match websites by domain rules and assign different access strategies.
