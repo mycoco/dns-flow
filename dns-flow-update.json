@@ -23,7 +23,7 @@
         },
         "macos": {
           "url": "https://github.com/mycoco/dns-flow/releases/download/2.0.0.1/dns-flow-macos-2.0.0.1.zip",
-          "sha256": "06505e885161d571c824ebf83d985f5675ee046847f06217022a2f04372a02e6"
+          "sha256": "92e439a5ae9d85f5a7f8cebd2ccd835c0a616b99166805be188d8f7483a1a85e"
         }
       }
     }
